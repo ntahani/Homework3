@@ -1,4 +1,5 @@
 package core.api;
+//dont need to test too deeply (no obscure corner-cases)
 
 /**
  * Created by Vincent on 21/2/2017.
